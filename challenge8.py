@@ -15,3 +15,5 @@ shub.left(120)
 shub.forward(174)
 shub.left(120)
 shub.forward(174)
+
+turtle.getscreen()._root.mainloop()
