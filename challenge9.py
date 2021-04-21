@@ -1,3 +1,5 @@
+# Learning how to add variables into a print command
+
 amount = "3"
 
 a = "Instagram,"
