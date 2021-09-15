@@ -2,4 +2,4 @@
 for i in range(100, 80, -2):
     print(i)
 
-input("\n Press Enter to Exit")
+input("Press Enter to Exit")
